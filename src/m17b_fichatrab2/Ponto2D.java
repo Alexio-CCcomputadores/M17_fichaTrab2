@@ -7,12 +7,12 @@ package m17b_fichatrab2;
  */
 
 public class Ponto2D {
-    /**Pontos*/
+    /**Coordenadas*/
     private int x;
-    /**  Ponto X <br>
+    /**  Coordenada X <br>
      */
     private int y;
-    /**  Ponto Y <br>
+    /**  Coordenada Y <br>
      */
     
     
