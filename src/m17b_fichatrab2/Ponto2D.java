@@ -34,7 +34,7 @@ public class Ponto2D {
     
     public double distancia(Ponto2D a){
         // Falta fazer este método.
-        
+        //metodo novo
         return 0.0;
     }
 
